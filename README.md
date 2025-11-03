@@ -6,6 +6,7 @@
 This project aims to classify whether a patient is likely to have **CKD** using various medical indicators and clinical test results.
 
 - By applying machine learning algorithms, this project helps in early disease detection, better diagnosis, and data-driven healthcare insights.
+- The aim is to leverage **Machine Learning and AutoML (PyCaret)** to enable early detection, data-driven diagnosis, and improved healthcare decision-making.
 
 ---
 ## Project Summary
